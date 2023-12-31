@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - NullPointerException">
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 문제와 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +79,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="10014000" />
+      <workItem from="1704007619695" duration="10588000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -197,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704022167427</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2 - 문제와 풀이">
+      <option name="closed" value="true" />
+      <created>1704022690050</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704022690050</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +220,7 @@
     <MESSAGE value="2 - 변수와 초기화" />
     <MESSAGE value="2 - null" />
     <MESSAGE value="2 - NullPointerException" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - NullPointerException" />
+    <MESSAGE value="2 - 문제와 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 문제와 풀이" />
   </component>
 </project>
