@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="1 - 배열 도입 - 리펙토링">
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="1 - 문제와 풀이">
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\ref" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\class1\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\class1" />
     </key>
@@ -76,7 +78,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="2783000" />
+      <workItem from="1704007619695" duration="4136000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704010187623</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1 - 문제와 풀이">
+      <option name="closed" value="true" />
+      <created>1704010531310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704010531310</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +148,7 @@
     <MESSAGE value="1 - 클래스 도입" />
     <MESSAGE value="1 - 배열 도입 - 시작" />
     <MESSAGE value="1 - 배열 도입 - 리펙토링" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 - 배열 도입 - 리펙토링" />
+    <MESSAGE value="1 - 문제와 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 - 문제와 풀이" />
   </component>
 </project>
