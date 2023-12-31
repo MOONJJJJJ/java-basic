@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 기본형 vs 참조형2 - 변수 대입">
-      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 기본형 vs 참조형3 - 메서드 호출">
+      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="5483000" />
+      <workItem from="1704007619695" duration="7123000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -144,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704011897743</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2 - 기본형 vs 참조형3 - 메서드 호출">
+      <option name="closed" value="true" />
+      <created>1704017332596</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704017332596</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +167,7 @@
     <MESSAGE value="1 - 배열 도입 - 리펙토링" />
     <MESSAGE value="1 - 문제와 풀이" />
     <MESSAGE value="2 - 기본형 vs 참조형2 - 변수 대입" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - 기본형 vs 참조형2 - 변수 대입" />
+    <MESSAGE value="2 - 기본형 vs 참조형3 - 메서드 호출" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 기본형 vs 참조형3 - 메서드 호출" />
   </component>
 </project>
