@@ -8,6 +8,6 @@ public class NullMain1 {
         data = new Data();
         System.out.println("2. data = " + data);
         data = null;
-        System.out.println("3. data = " + data);
+        System.out.println("3. data =" + data);
     }
 }

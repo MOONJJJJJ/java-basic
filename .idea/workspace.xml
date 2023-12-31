@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 기본형 vs 참조형3 - 메서드 호출">
-      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 변수와 초기화">
+      <change beforePath="$PROJECT_DIR$/src/ref/NullMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,8 @@
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.MethodChange2.executor": "Run",
     "애플리케이션.MovieReviewMain1.executor": "Run",
-    "애플리케이션.MovieReviewMain2.executor": "Run"
+    "애플리케이션.MovieReviewMain2.executor": "Run",
+    "애플리케이션.NullMain1.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,7 +77,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="7123000" />
+      <workItem from="1704007619695" duration="7417000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -153,7 +151,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704017332596</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2 - 참조형과 메서드 호출 - 활용">
+      <option name="closed" value="true" />
+      <created>1704019715890</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704019715890</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2 - 변수와 초기화">
+      <option name="closed" value="true" />
+      <created>1704019736141</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704019736141</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2 - 변수와 초기화">
+      <option name="closed" value="true" />
+      <created>1704019809510</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704019809510</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +190,8 @@
     <MESSAGE value="1 - 문제와 풀이" />
     <MESSAGE value="2 - 기본형 vs 참조형2 - 변수 대입" />
     <MESSAGE value="2 - 기본형 vs 참조형3 - 메서드 호출" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - 기본형 vs 참조형3 - 메서드 호출" />
+    <MESSAGE value="2 - 참조형과 메서드 호출 - 활용" />
+    <MESSAGE value="2 - 변수와 초기화" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 - 변수와 초기화" />
   </component>
 </project>
