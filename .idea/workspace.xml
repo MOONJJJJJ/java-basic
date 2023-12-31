@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="1 - 배열 도입 - 시작">
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/ClassStart4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="1 - 배열 도입 - 리펙토링">
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +41,14 @@
     "settings.editor.selected.configurable": "File.Encoding",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.ClassStart4.executor": "Run",
-    "애플리케이션.Main.executor": "Run"
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MovieReviewMain1.executor": "Run",
+    "애플리케이션.MovieReviewMain2.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\class1\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\class1" />
     </key>
   </component>
@@ -72,7 +76,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="2478000" />
+      <workItem from="1704007619695" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -114,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704009847899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1 - 배열 도입 - 리펙토링">
+      <option name="closed" value="true" />
+      <created>1704010187623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704010187623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +137,7 @@
     <MESSAGE value="1 - 클래스가 필요한 이유" />
     <MESSAGE value="1 - 클래스 도입" />
     <MESSAGE value="1 - 배열 도입 - 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 - 배열 도입 - 시작" />
+    <MESSAGE value="1 - 배열 도입 - 리펙토링" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 - 배열 도입 - 리펙토링" />
   </component>
 </project>
