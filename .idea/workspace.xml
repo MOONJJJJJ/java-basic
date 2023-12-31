@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="2 - 문제와 풀이" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\oop1" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\ref\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\ref" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\class1\ex" />
@@ -79,7 +80,7 @@
       <updated>1703945356794</updated>
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
-      <workItem from="1704007619695" duration="10588000" />
+      <workItem from="1704007619695" duration="10976000" />
     </task>
     <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -201,7 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704022690050</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="3 - 절차 지향 프로그래밍1 - 시작">
+      <option name="closed" value="true" />
+      <created>1704023267016</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704023267016</updated>
+    </task>
+    <task id="LOCAL-00017" summary="3 - 절차 지향 프로그래밍2 - 데이터 묶음">
+      <option name="closed" value="true" />
+      <created>1704023422446</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704023422446</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +238,8 @@
     <MESSAGE value="2 - null" />
     <MESSAGE value="2 - NullPointerException" />
     <MESSAGE value="2 - 문제와 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 - 문제와 풀이" />
+    <MESSAGE value="3 - 절차 지향 프로그래밍1 - 시작" />
+    <MESSAGE value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
   </component>
 </project>
