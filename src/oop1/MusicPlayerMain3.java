@@ -29,7 +29,7 @@ public class MusicPlayerMain3 {
     }
 
     static void volumeUp(MusicPlayerData data) {
-        data.volume++;
+        data.volume+=2;
         System.out.println("음악 플레이어 볼륨:" + data.volume);
     }
 
