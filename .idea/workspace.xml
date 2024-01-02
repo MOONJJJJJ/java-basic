@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="7 - 문제와 풀이" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="8 - final 변수와 상수1">
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +60,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\final1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\memory" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\ex" />
     </key>
   </component>
   <component name="RunManager">
@@ -440,14 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704184475573</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="8 - final 변수와 상수1">
+      <option name="closed" value="true" />
+      <created>1704203960464</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1704203960464</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
     <MESSAGE value="3 - 절차 지향 프로그래밍3 - 메서드 추출" />
     <MESSAGE value="3 - 클래스와 메서드" />
     <MESSAGE value="3 - 객체 지향 프로그래밍" />
@@ -472,7 +483,8 @@
     <MESSAGE value="5 - static 메서드2" />
     <MESSAGE value="5 - 문제와 풀이" />
     <MESSAGE value="7 - 문제와 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 - 문제와 풀이" />
+    <MESSAGE value="8 - final 변수와 상수1" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - final 변수와 상수1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
