@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - 문제와 풀이">
-      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 변수1">
+      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\memory" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\b" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\a" />
     </key>
   </component>
   <component name="RunManager">
@@ -388,15 +389,29 @@
       <option name="project" value="LOCAL" />
       <updated>1704178880471</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="5 - 스택 영역과 힙 영역">
+      <option name="closed" value="true" />
+      <created>1704181670141</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1704181670141</updated>
+    </task>
+    <task id="LOCAL-00038" summary="5 - static 변수1">
+      <option name="closed" value="true" />
+      <created>1704181985558</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1704181985558</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - 참조형과 메서드 호출 - 활용" />
-    <MESSAGE value="2 - 변수와 초기화" />
     <MESSAGE value="2 - null" />
     <MESSAGE value="2 - NullPointerException" />
     <MESSAGE value="2 - 문제와 풀이" />
@@ -420,7 +435,9 @@
     <MESSAGE value="5 - 접근 제어자 사용 - 클래스 레벨" />
     <MESSAGE value="5 - 캡슐화" />
     <MESSAGE value="5 - 문제와 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - 문제와 풀이" />
+    <MESSAGE value="5 - 스택 영역과 힙 영역" />
+    <MESSAGE value="5 - static 변수1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - static 변수1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
