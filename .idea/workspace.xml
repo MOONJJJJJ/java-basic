@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 변수1">
-      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 변수2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,14 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704181985558</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="5 - static 변수2">
+      <option name="closed" value="true" />
+      <created>1704182286928</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1704182286928</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - null" />
     <MESSAGE value="2 - NullPointerException" />
     <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 절차 지향 프로그래밍1 - 시작" />
@@ -437,7 +440,8 @@
     <MESSAGE value="5 - 문제와 풀이" />
     <MESSAGE value="5 - 스택 영역과 힙 영역" />
     <MESSAGE value="5 - static 변수1" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - static 변수1" />
+    <MESSAGE value="5 - static 변수2" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - static 변수2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
