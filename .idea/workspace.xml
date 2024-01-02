@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 패키지 - import" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 패키지 활용">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\user" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\product" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\order" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\pack" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\pack\b" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\pack\a" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\construct\ex" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\construct" />
     </key>
   </component>
   <component name="RunManager">
@@ -333,14 +335,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704174845934</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="4 - 패키지 활용">
+      <option name="closed" value="true" />
+      <created>1704175512814</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1704175512814</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1 - 클래스 도입" />
     <MESSAGE value="1 - 배열 도입 - 시작" />
     <MESSAGE value="1 - 배열 도입 - 리펙토링" />
     <MESSAGE value="1 - 문제와 풀이" />
@@ -365,6 +374,7 @@
     <MESSAGE value="4 - 문제와 풀이" />
     <MESSAGE value="4 - 패키지 - 시작" />
     <MESSAGE value="4 - 패키지 - import" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 - 패키지 - import" />
+    <MESSAGE value="4 - 패키지 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 - 패키지 활용" />
   </component>
 </project>
