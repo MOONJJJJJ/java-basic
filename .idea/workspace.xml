@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="3 - 절차 지향 프로그래밍2 - 데이터 묶음">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="3 - 절차 지향 프로그래밍3 - 메서드 추출" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704023422446</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="3 - 절차 지향 프로그래밍3 - 메서드 추출">
+      <option name="closed" value="true" />
+      <created>1704169448051</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704169448051</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,6 +256,7 @@
     <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 절차 지향 프로그래밍1 - 시작" />
     <MESSAGE value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
+    <MESSAGE value="3 - 절차 지향 프로그래밍3 - 메서드 추출" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 - 절차 지향 프로그래밍3 - 메서드 추출" />
   </component>
 </project>
