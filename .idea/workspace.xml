@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 패키지 활용">
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - 접근 제어자 이해1">
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
     "onboarding.tips.debug.path": "C:/Users/user/Desktop/repos/java-basic/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AccessInnerMain.executor": "Run",
     "애플리케이션.ClassStart4.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.MethodChange2.executor": "Run",
@@ -49,17 +52,18 @@
     "애플리케이션.NullMain3.executor": "Run",
     "애플리케이션.NullMain4.executor": "Run",
     "애플리케이션.RectangleProceduralMain.executor": "Run",
+    "애플리케이션.SpeakerMain.executor": "Run",
     "애플리케이션.ValueDataMain.executor": "Run",
     "애플리케이션.ValueObjectMain.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\a" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\user" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\product" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\order" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\pack" />
     </key>
   </component>
   <component name="RunManager">
@@ -343,14 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704175512814</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="5 - 접근 제어자 이해1">
+      <option name="closed" value="true" />
+      <created>1704176335293</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1704176335293</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1 - 배열 도입 - 시작" />
     <MESSAGE value="1 - 배열 도입 - 리펙토링" />
     <MESSAGE value="1 - 문제와 풀이" />
     <MESSAGE value="2 - 기본형 vs 참조형2 - 변수 대입" />
@@ -375,6 +386,7 @@
     <MESSAGE value="4 - 패키지 - 시작" />
     <MESSAGE value="4 - 패키지 - import" />
     <MESSAGE value="4 - 패키지 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 - 패키지 활용" />
+    <MESSAGE value="5 - 접근 제어자 이해1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 접근 제어자 이해1" />
   </component>
 </project>
