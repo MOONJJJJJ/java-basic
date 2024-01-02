@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 변수2">
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 메서드1">
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,7 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.AccessInnerMain.executor": "Run",
     "애플리케이션.ClassStart4.executor": "Run",
+    "애플리케이션.DecoMain1.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.MethodChange2.executor": "Run",
     "애플리케이션.MovieReviewMain1.executor": "Run",
@@ -57,11 +60,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\memory" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\b" />
     </key>
   </component>
   <component name="RunManager">
@@ -409,14 +412,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704182286928</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="5 - static 메서드1">
+      <option name="closed" value="true" />
+      <created>1704182971164</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1704182971164</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 - NullPointerException" />
     <MESSAGE value="2 - 문제와 풀이" />
     <MESSAGE value="3 - 절차 지향 프로그래밍1 - 시작" />
     <MESSAGE value="3 - 절차 지향 프로그래밍2 - 데이터 묶음" />
@@ -441,7 +451,8 @@
     <MESSAGE value="5 - 스택 영역과 힙 영역" />
     <MESSAGE value="5 - static 변수1" />
     <MESSAGE value="5 - static 변수2" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - static 변수2" />
+    <MESSAGE value="5 - static 메서드1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - static 메서드1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
