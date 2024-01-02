@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="3 - 문제와 풀이">
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 생성자 - 필요한 이유" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704171094500</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="4 - 생성자 - 필요한 이유">
+      <option name="closed" value="true" />
+      <created>1704171430216</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704171430216</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +303,7 @@
     <MESSAGE value="3 - 클래스와 메서드" />
     <MESSAGE value="3 - 객체 지향 프로그래밍" />
     <MESSAGE value="3 - 문제와 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 - 문제와 풀이" />
+    <MESSAGE value="4 - 생성자 - 필요한 이유" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 - 생성자 - 필요한 이유" />
   </component>
 </project>
