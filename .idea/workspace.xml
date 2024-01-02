@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - 접근 제어자 사용 - 필드, 메서드">
-      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - 접근 제어자 사용 - 클래스 레벨" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,8 +55,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\a" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\b" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access\a" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\access" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\user" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\com\helloshop\product" />
@@ -361,14 +359,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704177236527</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="5 - 접근 제어자 사용 - 클래스 레벨">
+      <option name="closed" value="true" />
+      <created>1704177585282</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1704177585282</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1 - 문제와 풀이" />
     <MESSAGE value="2 - 기본형 vs 참조형2 - 변수 대입" />
     <MESSAGE value="2 - 기본형 vs 참조형3 - 메서드 호출" />
     <MESSAGE value="2 - 참조형과 메서드 호출 - 활용" />
@@ -393,6 +398,7 @@
     <MESSAGE value="4 - 패키지 활용" />
     <MESSAGE value="5 - 접근 제어자 이해1" />
     <MESSAGE value="5 - 접근 제어자 사용 - 필드, 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - 접근 제어자 사용 - 필드, 메서드" />
+    <MESSAGE value="5 - 접근 제어자 사용 - 클래스 레벨" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 접근 제어자 사용 - 클래스 레벨" />
   </component>
 </project>
