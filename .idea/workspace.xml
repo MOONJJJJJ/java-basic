@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 기본 생성자" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 생성자 - 오버로딩과 this()">
+      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704172885236</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="4 - 생성자 - 오버로딩과 this()">
+      <option name="closed" value="true" />
+      <created>1704173987044</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1704173987044</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +342,7 @@
     <MESSAGE value="4 - this" />
     <MESSAGE value="4 - 생성자 - 도입" />
     <MESSAGE value="4 - 기본 생성자" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 - 기본 생성자" />
+    <MESSAGE value="4 - 생성자 - 오버로딩과 this()" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 - 생성자 - 오버로딩과 this()" />
   </component>
 </project>
