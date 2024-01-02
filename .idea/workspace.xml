@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - static 메서드2">
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="5 - 문제와 풀이">
+      <change beforePath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -430,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704183561412</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="5 - 문제와 풀이">
+      <option name="closed" value="true" />
+      <created>1704184448729</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1704184448729</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,13 +460,13 @@
     <MESSAGE value="5 - 접근 제어자 사용 - 필드, 메서드" />
     <MESSAGE value="5 - 접근 제어자 사용 - 클래스 레벨" />
     <MESSAGE value="5 - 캡슐화" />
-    <MESSAGE value="5 - 문제와 풀이" />
     <MESSAGE value="5 - 스택 영역과 힙 영역" />
     <MESSAGE value="5 - static 변수1" />
     <MESSAGE value="5 - static 변수2" />
     <MESSAGE value="5 - static 메서드1" />
     <MESSAGE value="5 - static 메서드2" />
-    <option name="LAST_COMMIT_MESSAGE" value="5 - static 메서드2" />
+    <MESSAGE value="5 - 문제와 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 - 문제와 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
