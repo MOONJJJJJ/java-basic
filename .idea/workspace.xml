@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 생성자 - 도입" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 기본 생성자" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704172631820</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="4 - 기본 생성자">
+      <option name="closed" value="true" />
+      <created>1704172885236</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704172885236</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +330,7 @@
     <MESSAGE value="4 - 생성자 - 필요한 이유" />
     <MESSAGE value="4 - this" />
     <MESSAGE value="4 - 생성자 - 도입" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 - 생성자 - 도입" />
+    <MESSAGE value="4 - 기본 생성자" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 - 기본 생성자" />
   </component>
 </project>
