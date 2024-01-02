@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="8 - final 변수와 상수1">
-      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="8 - final 변수와 참조">
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +59,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\final1\ex" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\final1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static1" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\memory" />
     </key>
   </component>
   <component name="RunManager">
@@ -452,15 +451,29 @@
       <option name="project" value="LOCAL" />
       <updated>1704203960464</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="8 - final 변수와 상수2">
+      <option name="closed" value="true" />
+      <created>1704204305356</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204305356</updated>
+    </task>
+    <task id="LOCAL-00046" summary="8 - final 변수와 참조">
+      <option name="closed" value="true" />
+      <created>1704204473596</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204473596</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 - 절차 지향 프로그래밍3 - 메서드 추출" />
-    <MESSAGE value="3 - 클래스와 메서드" />
     <MESSAGE value="3 - 객체 지향 프로그래밍" />
     <MESSAGE value="3 - 문제와 풀이" />
     <MESSAGE value="4 - 생성자 - 필요한 이유" />
@@ -484,7 +497,9 @@
     <MESSAGE value="5 - 문제와 풀이" />
     <MESSAGE value="7 - 문제와 풀이" />
     <MESSAGE value="8 - final 변수와 상수1" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 - final 변수와 상수1" />
+    <MESSAGE value="8 - final 변수와 상수2" />
+    <MESSAGE value="8 - final 변수와 참조" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 - final 변수와 참조" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
