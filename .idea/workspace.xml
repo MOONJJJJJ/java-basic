@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 생성자 - 오버로딩과 this()">
-      <change afterPath="$PROJECT_DIR$/src/construct/ConstructMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="4 - 문제와 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +53,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\construct\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\construct" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\oop1\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\oop1" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\oop1" />
-      <recent name="C:\Users\user\Desktop\repos\java-basic\src\ref\ex" />
     </key>
   </component>
   <component name="RunManager">
@@ -312,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704173987044</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="4 - 문제와 풀이">
+      <option name="closed" value="true" />
+      <created>1704174152277</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1704174152277</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,6 +348,7 @@
     <MESSAGE value="4 - 생성자 - 도입" />
     <MESSAGE value="4 - 기본 생성자" />
     <MESSAGE value="4 - 생성자 - 오버로딩과 this()" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 - 생성자 - 오버로딩과 this()" />
+    <MESSAGE value="4 - 문제와 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 - 문제와 풀이" />
   </component>
 </project>
