@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - 상속과 접근 제어" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - super - 부모 참조">
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,45 +27,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/Desktop/repos/java-basic/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.AccessInnerMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ClassStart4.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.DecoMain1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MethodChange2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.MovieReviewMain2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NullMain1.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NullMain2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NullMain3.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.NullMain4.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.RectangleProceduralMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SpeakerMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ValueDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ValueObjectMain.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/Desktop/repos/java-basic/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.AccessInnerMain.executor": "Run",
+    "애플리케이션.ClassStart4.executor": "Run",
+    "애플리케이션.DecoMain1.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MethodChange2.executor": "Run",
+    "애플리케이션.MovieReviewMain1.executor": "Run",
+    "애플리케이션.MovieReviewMain2.executor": "Run",
+    "애플리케이션.NullMain1.executor": "Run",
+    "애플리케이션.NullMain2.executor": "Run",
+    "애플리케이션.NullMain3.executor": "Run",
+    "애플리케이션.NullMain4.executor": "Run",
+    "애플리케이션.RectangleProceduralMain.executor": "Run",
+    "애플리케이션.SpeakerMain.executor": "Run",
+    "애플리케이션.Super2Main.executor": "Run",
+    "애플리케이션.ValueDataMain.executor": "Run",
+    "애플리케이션.ValueObjectMain.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\super2" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\super1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\access\child" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\access\parent" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\overriding" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex3" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex2" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,14 +101,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00004" summary="1 - 클래스 도입">
-      <option name="closed" value="true" />
-      <created>1704008745038</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1704008745038</updated>
     </task>
     <task id="LOCAL-00005" summary="1 - 배열 도입 - 시작">
       <option name="closed" value="true" />
@@ -488,14 +486,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704245234539</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="9 - super - 부모 참조">
+      <option name="closed" value="true" />
+      <created>1704245436037</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1704245436037</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 생성자 - 오버로딩과 this()" />
     <MESSAGE value="4 - 문제와 풀이" />
     <MESSAGE value="4 - 패키지 - 시작" />
     <MESSAGE value="4 - 패키지 - import" />
@@ -520,7 +525,8 @@
     <MESSAGE value="9 - 상속과 기능 추가" />
     <MESSAGE value="9 - 상속과 메서드 오버라이딩" />
     <MESSAGE value="9 - 상속과 접근 제어" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - 상속과 접근 제어" />
+    <MESSAGE value="9 - super - 부모 참조" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - super - 부모 참조" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
