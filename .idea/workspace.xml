@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - instanceof">
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 다형성과 메서드 오버라이딩">
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/강의내용정리" beforeDir="false" afterPath="$PROJECT_DIR$/src/강의내용정리" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,11 +65,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex1" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\overriding" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\basic" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\super2" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\super1" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\access\child" />
     </key>
   </component>
   <component name="RunManager">
@@ -99,14 +104,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00013" summary="2 - null">
-      <option name="closed" value="true" />
-      <created>1704020063202</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1704020063202</updated>
     </task>
     <task id="LOCAL-00014" summary="2 - NullPointerException">
       <option name="closed" value="true" />
@@ -492,14 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704261268616</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="10 - 다형성과 메서드 오버라이딩">
+      <option name="closed" value="true" />
+      <created>1704264238339</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1704264238339</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - 스택 영역과 힙 영역" />
     <MESSAGE value="5 - static 변수1" />
     <MESSAGE value="5 - static 변수2" />
     <MESSAGE value="5 - static 메서드1" />
@@ -524,7 +528,8 @@
     <MESSAGE value="10 - 캐스팅의 종류" />
     <MESSAGE value="10 - 다운캐스팅과 주의점" />
     <MESSAGE value="10 - instanceof" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 - instanceof" />
+    <MESSAGE value="10 - 다형성과 메서드 오버라이딩" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 - 다형성과 메서드 오버라이딩" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
