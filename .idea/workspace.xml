@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 추상 클래스2">
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 인터페이스">
       <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/poly/ex5/Caw.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
@@ -106,14 +106,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00019" summary="3 - 절차 지향 프로그래밍3 - 메서드 추출">
-      <option name="closed" value="true" />
-      <created>1704170208725</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1704170208725</updated>
     </task>
     <task id="LOCAL-00020" summary="3 - 클래스와 메서드">
       <option name="closed" value="true" />
@@ -499,14 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704269514653</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="10 - 인터페이스">
+      <option name="closed" value="true" />
+      <created>1704270320272</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1704270320272</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7 - 문제와 풀이" />
     <MESSAGE value="8 - final 변수와 상수1" />
     <MESSAGE value="8 - final 변수와 상수2" />
     <MESSAGE value="8 - final 변수와 참조" />
@@ -531,7 +530,8 @@
     <MESSAGE value="10 - 다형성 활용3" />
     <MESSAGE value="10 - 추상 클래스1" />
     <MESSAGE value="10 - 추상 클래스2" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 - 추상 클래스2" />
+    <MESSAGE value="10 - 인터페이스" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 - 인터페이스" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
