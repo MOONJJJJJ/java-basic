@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 다형성과 메서드 오버라이딩">
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Caw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/강의내용정리" beforeDir="false" afterPath="$PROJECT_DIR$/src/강의내용정리" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 다형성 활용2">
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.AccessInnerMain.executor": "Run",
+    "애플리케이션.AnimalPolyMain1.executor": "Run",
     "애플리케이션.ClassStart4.executor": "Run",
     "애플리케이션.DecoMain1.executor": "Run",
     "애플리케이션.Main.executor": "Run",
@@ -65,11 +62,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex1" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\overriding" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\basic" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\super2" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,22 +101,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00014" summary="2 - NullPointerException">
-      <option name="closed" value="true" />
-      <created>1704022167427</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1704022167427</updated>
-    </task>
-    <task id="LOCAL-00015" summary="2 - 문제와 풀이">
-      <option name="closed" value="true" />
-      <created>1704022690050</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1704022690050</updated>
     </task>
     <task id="LOCAL-00016" summary="3 - 절차 지향 프로그래밍1 - 시작">
       <option name="closed" value="true" />
@@ -497,15 +478,29 @@
       <option name="project" value="LOCAL" />
       <updated>1704264238339</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="10 - 다형성 활용1">
+      <option name="closed" value="true" />
+      <created>1704265359645</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1704265359645</updated>
+    </task>
+    <task id="LOCAL-00064" summary="10 - 다형성 활용2">
+      <option name="closed" value="true" />
+      <created>1704265689911</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1704265689911</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - static 변수1" />
-    <MESSAGE value="5 - static 변수2" />
     <MESSAGE value="5 - static 메서드1" />
     <MESSAGE value="5 - static 메서드2" />
     <MESSAGE value="5 - 문제와 풀이" />
@@ -529,7 +524,9 @@
     <MESSAGE value="10 - 다운캐스팅과 주의점" />
     <MESSAGE value="10 - instanceof" />
     <MESSAGE value="10 - 다형성과 메서드 오버라이딩" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 - 다형성과 메서드 오버라이딩" />
+    <MESSAGE value="10 - 다형성 활용1" />
+    <MESSAGE value="10 - 다형성 활용2" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 - 다형성 활용2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
