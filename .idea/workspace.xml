@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - super - 부모 참조">
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - super - 생성자" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,14 +96,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00005" summary="1 - 배열 도입 - 시작">
-      <option name="closed" value="true" />
-      <created>1704009847899</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1704009847899</updated>
     </task>
     <task id="LOCAL-00006" summary="1 - 배열 도입 - 리펙토링">
       <option name="closed" value="true" />
@@ -494,14 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704245436037</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="9 - super - 생성자">
+      <option name="closed" value="true" />
+      <created>1704245951046</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1704245951046</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 문제와 풀이" />
     <MESSAGE value="4 - 패키지 - 시작" />
     <MESSAGE value="4 - 패키지 - import" />
     <MESSAGE value="4 - 패키지 활용" />
@@ -526,7 +520,8 @@
     <MESSAGE value="9 - 상속과 메서드 오버라이딩" />
     <MESSAGE value="9 - 상속과 접근 제어" />
     <MESSAGE value="9 - super - 부모 참조" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - super - 부모 참조" />
+    <MESSAGE value="9 - super - 생성자" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - super - 생성자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
