@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - 상속과 메모리 구조" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - 상속과 기능 추가">
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +63,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\overriding" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex3" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\extends1\ex1" />
       <recent name="C:\Users\user\Desktop\repos\java-basic\src\final1\ex" />
-      <recent name="C:\Users\user\Desktop\repos\java-basic\src\final1" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\static2\ex" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,14 +102,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00001" summary="1 - 프로젝트 환경 구성">
-      <option name="closed" value="true" />
-      <created>1703945442084</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1703945442084</updated>
     </task>
     <task id="LOCAL-00002" summary="1 - 프로젝트 환경 구성">
       <option name="closed" value="true" />
@@ -488,14 +487,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704243347388</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="9 - 상속과 기능 추가">
+      <option name="closed" value="true" />
+      <created>1704243644744</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1704243644744</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - this" />
     <MESSAGE value="4 - 생성자 - 도입" />
     <MESSAGE value="4 - 기본 생성자" />
     <MESSAGE value="4 - 생성자 - 오버로딩과 this()" />
@@ -520,7 +526,8 @@
     <MESSAGE value="9 - 상속 - 시작" />
     <MESSAGE value="9 - 상속 관계" />
     <MESSAGE value="9 - 상속과 메모리 구조" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - 상속과 메모리 구조" />
+    <MESSAGE value="9 - 상속과 기능 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - 상속과 기능 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
