@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - 상속과 기능 추가">
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="9 - 상속과 메서드 오버라이딩" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,14 +95,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00002" summary="1 - 프로젝트 환경 구성">
-      <option name="closed" value="true" />
-      <created>1703945890972</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1703945890972</updated>
     </task>
     <task id="LOCAL-00003" summary="1 - 클래스가 필요한 이유">
       <option name="closed" value="true" />
@@ -495,14 +480,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704243644744</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="9 - 상속과 메서드 오버라이딩">
+      <option name="closed" value="true" />
+      <created>1704244679603</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1704244679603</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 - 생성자 - 도입" />
     <MESSAGE value="4 - 기본 생성자" />
     <MESSAGE value="4 - 생성자 - 오버로딩과 this()" />
     <MESSAGE value="4 - 문제와 풀이" />
@@ -527,7 +519,8 @@
     <MESSAGE value="9 - 상속 관계" />
     <MESSAGE value="9 - 상속과 메모리 구조" />
     <MESSAGE value="9 - 상속과 기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="9 - 상속과 기능 추가" />
+    <MESSAGE value="9 - 상속과 메서드 오버라이딩" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 - 상속과 메서드 오버라이딩" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
