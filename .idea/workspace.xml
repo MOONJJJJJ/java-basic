@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 추상 클래스1" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 추상 클래스2">
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/강의내용정리" beforeDir="false" afterPath="$PROJECT_DIR$/src/강의내용정리" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,11 +67,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex5" />
+      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex4" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex3" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex2" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex1" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\overriding" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\basic" />
     </key>
   </component>
   <component name="RunManager">
@@ -98,14 +106,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00018" summary="3 - 절차 지향 프로그래밍3 - 메서드 추출">
-      <option name="closed" value="true" />
-      <created>1704169448051</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1704169448051</updated>
     </task>
     <task id="LOCAL-00019" summary="3 - 절차 지향 프로그래밍3 - 메서드 추출">
       <option name="closed" value="true" />
@@ -491,14 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704269201905</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="10 - 추상 클래스2">
+      <option name="closed" value="true" />
+      <created>1704269514653</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1704269514653</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - 문제와 풀이" />
     <MESSAGE value="7 - 문제와 풀이" />
     <MESSAGE value="8 - final 변수와 상수1" />
     <MESSAGE value="8 - final 변수와 상수2" />
@@ -523,7 +530,8 @@
     <MESSAGE value="10 - 다형성 활용2" />
     <MESSAGE value="10 - 다형성 활용3" />
     <MESSAGE value="10 - 추상 클래스1" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 - 추상 클래스1" />
+    <MESSAGE value="10 - 추상 클래스2" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 - 추상 클래스2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
