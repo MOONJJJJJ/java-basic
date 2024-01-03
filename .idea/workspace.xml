@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="12 - 좋은 객체 지향 프로그래밍이란?">
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="12 - 다형성 - 역할과 구현 예제1">
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +61,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\repos\java-basic\src\poly\car0" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\diamond" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex5" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex4" />
       <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex3" />
-      <recent name="C:\Users\양문정\Desktop\repos\java-basic\src\poly\ex2" />
     </key>
   </component>
   <component name="RunManager">
@@ -96,14 +93,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00023" summary="4 - 생성자 - 필요한 이유">
-      <option name="closed" value="true" />
-      <created>1704171430216</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1704171430216</updated>
     </task>
     <task id="LOCAL-00024" summary="4 - this">
       <option name="closed" value="true" />
@@ -489,14 +478,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704292831384</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="12 - 다형성 - 역할과 구현 예제1">
+      <option name="closed" value="true" />
+      <created>1704293034879</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1704293034879</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8 - final 변수와 참조" />
     <MESSAGE value="9 - 상속 - 시작" />
     <MESSAGE value="9 - 상속 관계" />
     <MESSAGE value="9 - 상속과 메모리 구조" />
@@ -521,7 +517,8 @@
     <MESSAGE value="10 - 인터페이스" />
     <MESSAGE value="10 - 인터페이스 - 다중 구현" />
     <MESSAGE value="12 - 좋은 객체 지향 프로그래밍이란?" />
-    <option name="LAST_COMMIT_MESSAGE" value="12 - 좋은 객체 지향 프로그래밍이란?" />
+    <MESSAGE value="12 - 다형성 - 역할과 구현 예제1" />
+    <option name="LAST_COMMIT_MESSAGE" value="12 - 다형성 - 역할과 구현 예제1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
