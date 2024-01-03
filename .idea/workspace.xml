@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - 다운캐스팅과 주의점">
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain6.java" afterDir="false" />
+    <list default="true" id="82922e1f-5707-4658-b932-2e623764ecef" name="변경" comment="10 - instanceof">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/강의내용정리" beforeDir="false" afterPath="$PROJECT_DIR$/src/강의내용정리" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +99,6 @@
       <workItem from="1703945357913" duration="539000" />
       <workItem from="1703946012319" duration="104000" />
       <workItem from="1704007619695" duration="10976000" />
-    </task>
-    <task id="LOCAL-00012" summary="2 - 변수와 초기화">
-      <option name="closed" value="true" />
-      <created>1704019809510</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1704019809510</updated>
     </task>
     <task id="LOCAL-00013" summary="2 - null">
       <option name="closed" value="true" />
@@ -495,14 +484,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704260274125</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="10 - instanceof">
+      <option name="closed" value="true" />
+      <created>1704261268616</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1704261268616</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5 - 캡슐화" />
     <MESSAGE value="5 - 스택 영역과 힙 영역" />
     <MESSAGE value="5 - static 변수1" />
     <MESSAGE value="5 - static 변수2" />
@@ -527,7 +523,8 @@
     <MESSAGE value="10 - 다형성과 캐스팅" />
     <MESSAGE value="10 - 캐스팅의 종류" />
     <MESSAGE value="10 - 다운캐스팅과 주의점" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 - 다운캐스팅과 주의점" />
+    <MESSAGE value="10 - instanceof" />
+    <option name="LAST_COMMIT_MESSAGE" value="10 - instanceof" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
